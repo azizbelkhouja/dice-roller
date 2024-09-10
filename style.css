@@ -9,3 +9,25 @@ body {
     border-radius: 37% 63% 7% 93% / 68% 26% 74% 32%;
     box-shadow: 2px 13px 74px 21px rgba(135,219,230,1);
 }
+#container > h1 {
+    color: brown;
+    padding-bottom: 35px;
+}
+#container > label {
+    font-weight: bold;
+    font-size: 20px;
+}
+#container > input {
+    border: none;
+    box-shadow: -1px 7px 90px 10px rgba(0,0,0,0.75);
+    padding: 5px;
+}
+#container > button {
+    border: none;
+    padding: 5px 15px;
+    background-color: white;
+    font-weight: bold;
+    font-size: 13px;
+    color: brown;
+    cursor: pointer;
+}
